@@ -65,17 +65,15 @@ ActiveRecord::Schema.define(version: 20130517043816) do
   end
 
   add_index "matches", ["outing_id"], name: "index_matches_on_outing_id", using: :btree
-  add_index "matches", ["round_1_id"], name: "index_matches_on_round_1_id", using: :btree
-  add_index "matches", ["round_2_id"], name: "index_matches_on_round_2_id", using: :btree
 
   create_table "outings", force: true do |t|
     t.integer  "course_id"
     t.integer  "season_id"
+    t.integer  "week_number"
     t.integer  "slope"
     t.float    "rating"
     t.datetime "played_at"
     t.integer  "hole_1_par"
-    t.integer  "hole_1_handicap"
     t.integer  "hole_2_par"
     t.integer  "hole_3_par"
     t.integer  "hole_4_par"
@@ -84,6 +82,7 @@ ActiveRecord::Schema.define(version: 20130517043816) do
     t.integer  "hole_7_par"
     t.integer  "hole_8_par"
     t.integer  "hole_9_par"
+    t.integer  "hole_1_handicap"
     t.integer  "hole_2_handicap"
     t.integer  "hole_3_handicap"
     t.integer  "hole_4_handicap"
@@ -134,8 +133,8 @@ ActiveRecord::Schema.define(version: 20130517043816) do
 
   create_table "rounds", force: true do |t|
     t.integer  "outing_id"
-    t.integer  "owner_id"
     t.integer  "player_id"
+    t.integer  "owner_id"
     t.integer  "handicap"
     t.datetime "played_at"
     t.integer  "hole_1"
@@ -152,7 +151,6 @@ ActiveRecord::Schema.define(version: 20130517043816) do
   end
 
   add_index "rounds", ["outing_id"], name: "index_rounds_on_outing_id", using: :btree
-  add_index "rounds", ["owner_id"], name: "index_rounds_on_owner_id", using: :btree
   add_index "rounds", ["player_id"], name: "index_rounds_on_player_id", using: :btree
 
   create_table "seasons", force: true do |t|

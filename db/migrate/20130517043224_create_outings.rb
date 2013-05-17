@@ -3,6 +3,7 @@ class CreateOutings < ActiveRecord::Migration
     create_table :outings do |t|
       t.references :course, index: true
       t.references :season, index: true
+      t.integer :week_number
       t.integer :slope
       t.float :rating
       t.datetime :played_at

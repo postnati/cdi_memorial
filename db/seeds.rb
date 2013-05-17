@@ -66,3 +66,13 @@ $gold = FactoryGirl.create(:course, name: "Gold", slope: 122, rating: 34.6, hole
 $blue = FactoryGirl.create(:course, name: "Blue", slope: 117, rating: 34, hole_1_par: 4, hole_2_par: 5, hole_3_par: 4, hole_4_par: 4, hole_5_par: 5, hole_6_par: 3, hole_7_par: 4, hole_8_par: 3, hole_9_par: 4)
 $white = FactoryGirl.create(:course, name: "White", slope: 123, rating: 36.1, hole_1_par: 5, hole_2_par: 4, hole_3_par: 3, hole_4_par: 5, hole_5_par: 4, hole_6_par: 4, hole_7_par: 5, hole_8_par: 3, hole_9_par: 4)
 
+require 'db/season_seeds/2004_seeds.rb'
+require 'db/season_seeds/2005_seeds.rb'
+require 'db/season_seeds/2006_seeds.rb'
+require 'db/season_seeds/2007_seeds.rb'
+require 'db/season_seeds/2008_seeds.rb'
+require 'db/season_seeds/2009_seeds.rb'
+require 'db/season_seeds/2010_seeds.rb'
+require 'db/season_seeds/2011_seeds.rb'
+require 'db/season_seeds/2012_seeds.rb'
+require 'db/season_seeds/2013_seeds.rb'

@@ -11,6 +11,10 @@
   %br
   = @outing.season_id
 %p
+  %strong= model_class.human_attribute_name(:week_number) + ':'
+  %br
+  = @outing.week_number
+%p
   %strong= model_class.human_attribute_name(:slope) + ':'
   %br
   = @outing.slope
@@ -26,10 +30,6 @@
   %strong= model_class.human_attribute_name(:hole_1_par) + ':'
   %br
   = @outing.hole_1_par
-%p
-  %strong= model_class.human_attribute_name(:hole_1_handicap) + ':'
-  %br
-  = @outing.hole_1_handicap
 %p
   %strong= model_class.human_attribute_name(:hole_2_par) + ':'
   %br
@@ -62,6 +62,10 @@
   %strong= model_class.human_attribute_name(:hole_9_par) + ':'
   %br
   = @outing.hole_9_par
+%p
+  %strong= model_class.human_attribute_name(:hole_1_handicap) + ':'
+  %br
+  = @outing.hole_1_handicap
 %p
   %strong= model_class.human_attribute_name(:hole_2_handicap) + ':'
   %br

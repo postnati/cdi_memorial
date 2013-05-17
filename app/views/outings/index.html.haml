@@ -7,11 +7,11 @@
       %th= model_class.human_attribute_name(:id)
       %th= model_class.human_attribute_name(:course_id)
       %th= model_class.human_attribute_name(:season_id)
+      %th= model_class.human_attribute_name(:week_number)
       %th= model_class.human_attribute_name(:slope)
       %th= model_class.human_attribute_name(:rating)
       %th= model_class.human_attribute_name(:played_at)
       %th= model_class.human_attribute_name(:hole_1_par)
-      %th= model_class.human_attribute_name(:hole_1_handicap)
       %th= model_class.human_attribute_name(:hole_2_par)
       %th= model_class.human_attribute_name(:hole_3_par)
       %th= model_class.human_attribute_name(:hole_4_par)
@@ -20,6 +20,7 @@
       %th= model_class.human_attribute_name(:hole_7_par)
       %th= model_class.human_attribute_name(:hole_8_par)
       %th= model_class.human_attribute_name(:hole_9_par)
+      %th= model_class.human_attribute_name(:hole_1_handicap)
       %th= model_class.human_attribute_name(:hole_2_handicap)
       %th= model_class.human_attribute_name(:hole_3_handicap)
       %th= model_class.human_attribute_name(:hole_4_handicap)
@@ -36,11 +37,11 @@
         %td= link_to outing.id, outing_path(outing)
         %td= outing.course_id
         %td= outing.season_id
+        %td= outing.week_number
         %td= outing.slope
         %td= outing.rating
         %td= outing.played_at
         %td= outing.hole_1_par
-        %td= outing.hole_1_handicap
         %td= outing.hole_2_par
         %td= outing.hole_3_par
         %td= outing.hole_4_par
@@ -49,6 +50,7 @@
         %td= outing.hole_7_par
         %td= outing.hole_8_par
         %td= outing.hole_9_par
+        %td= outing.hole_1_handicap
         %td= outing.hole_2_handicap
         %td= outing.hole_3_handicap
         %td= outing.hole_4_handicap

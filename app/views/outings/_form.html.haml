@@ -8,6 +8,10 @@
     .controls
       = f.text_field :season_id, :class => 'text_field'
   .control-group
+    = f.label :week_number, :class => 'control-label'
+    .controls
+      = f.text_field :week_number, :class => 'text_field'
+  .control-group
     = f.label :slope, :class => 'control-label'
     .controls
       = f.text_field :slope, :class => 'text_field'
@@ -23,10 +27,6 @@
     = f.label :hole_1_par, :class => 'control-label'
     .controls
       = f.text_field :hole_1_par, :class => 'text_field'
-  .control-group
-    = f.label :hole_1_handicap, :class => 'control-label'
-    .controls
-      = f.text_field :hole_1_handicap, :class => 'text_field'
   .control-group
     = f.label :hole_2_par, :class => 'control-label'
     .controls
@@ -59,6 +59,10 @@
     = f.label :hole_9_par, :class => 'control-label'
     .controls
       = f.text_field :hole_9_par, :class => 'text_field'
+  .control-group
+    = f.label :hole_1_handicap, :class => 'control-label'
+    .controls
+      = f.text_field :hole_1_handicap, :class => 'text_field'
   .control-group
     = f.label :hole_2_handicap, :class => 'control-label'
     .controls
