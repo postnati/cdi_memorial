@@ -1,4 +1,14 @@
 CdiMemorial::Application.routes.draw do
+  resources :poker_cards
+
+  resources :prizes
+
+  resources :matches
+
+  resources :rounds
+
+  resources :outings
+
   resources :competitions
 
   resources :seasons

@@ -1,0 +1,60 @@
+= form_for @round, :html => { :class => 'form-horizontal' } do |f|
+  .control-group
+    = f.label :outing_id, :class => 'control-label'
+    .controls
+      = f.text_field :outing_id, :class => 'text_field'
+  .control-group
+    = f.label :owner_id, :class => 'control-label'
+    .controls
+      = f.text_field :owner_id, :class => 'text_field'
+  .control-group
+    = f.label :player_id, :class => 'control-label'
+    .controls
+      = f.text_field :player_id, :class => 'text_field'
+  .control-group
+    = f.label :handicap, :class => 'control-label'
+    .controls
+      = f.text_field :handicap, :class => 'text_field'
+  .control-group
+    = f.label :played_at, :class => 'control-label'
+    .controls
+      = f.text_field :played_at, :class => 'text_field'
+  .control-group
+    = f.label :hole_1, :class => 'control-label'
+    .controls
+      = f.text_field :hole_1, :class => 'text_field'
+  .control-group
+    = f.label :hole_2, :class => 'control-label'
+    .controls
+      = f.text_field :hole_2, :class => 'text_field'
+  .control-group
+    = f.label :hole_3, :class => 'control-label'
+    .controls
+      = f.text_field :hole_3, :class => 'text_field'
+  .control-group
+    = f.label :hole_4, :class => 'control-label'
+    .controls
+      = f.text_field :hole_4, :class => 'text_field'
+  .control-group
+    = f.label :hole_5, :class => 'control-label'
+    .controls
+      = f.text_field :hole_5, :class => 'text_field'
+  .control-group
+    = f.label :hole_6, :class => 'control-label'
+    .controls
+      = f.text_field :hole_6, :class => 'text_field'
+  .control-group
+    = f.label :hole_7, :class => 'control-label'
+    .controls
+      = f.text_field :hole_7, :class => 'text_field'
+  .control-group
+    = f.label :hole_8, :class => 'control-label'
+    .controls
+      = f.text_field :hole_8, :class => 'text_field'
+  .control-group
+    = f.label :hole_9, :class => 'control-label'
+    .controls
+      = f.text_field :hole_9, :class => 'text_field'
+  .form-actions
+    = f.submit nil, :class => 'btn btn-primary'
+    = link_to t('.cancel', :default => t("helpers.links.cancel")), rounds_path, :class => 'btn'

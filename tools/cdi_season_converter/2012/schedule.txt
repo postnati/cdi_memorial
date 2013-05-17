@@ -1,0 +1,205 @@
+17
+
+12 0 Blue
+	ts - gp
+	gc - gp
+	mp - gp
+	gc - ts
+	ts - mp
+	gc - mp
+	bc - pf
+	bc - pb
+	bc - rh
+	pb - pf
+	rh - pf
+	pb - rh
+
+12 1 Red
+	gc - ts
+	ts - rh
+	ts - gp
+	gc - rh
+	gc - gp
+	gp - rh
+	bc - pb
+	mp - bc
+	bc - pf
+	mp - pb
+	pb - pf
+	mp - pf
+
+12 2 White
+	ts - mp
+	ts - gp
+	ts - pf
+	mp - gp
+	mp - pf
+	gp - pf
+	gc - bc
+	gc - pb
+	gc - rh
+	bc - pb
+	bc - rh
+	pb - rh
+
+12 3 Blue
+	gc - mp
+	gc - bc
+	gc - gp
+	mp - bc
+	mp - gp
+	bc - gp
+	ts - pb
+	ts - rh
+	ts - pf
+	pb - rh
+	pb - pf
+	rh - pf
+
+12 4 Gold
+	gc - mp
+	gc - rh
+	gc - pf
+	mp - rh
+	mp - pf
+	rh - pf
+	ts - bc
+	ts - gp
+	ts - pb
+	bc - gp
+	bc - pb
+	gp - pb
+
+12 5 Red
+	gp - pf
+	gc - pf
+	pb - pf
+	gp - pb
+	gc - gp
+	gc - pb
+	ts - mp
+	ts - bc
+	ts - rh
+	mp - bc
+	mp - rh
+	bc - rh
+
+12 6 White
+	bc - rh
+	gp - rh
+	rh - pf
+	bc - gp
+	bc - pf
+	gp - pf
+	gc - mp
+	ts - mp
+	mp - pb
+	gc - ts
+	ts - pb
+	gc - pb
+
+12 7 Blue
+	gc - mp
+	gc - bc
+	gc - pb
+	mp - bc
+	mp - pb
+	bc - pb
+	ts - gp
+	ts - rh
+	ts - pf
+	gp - rh
+	gp - pf
+	rh - pf
+
+12 8 Gold
+	gc - bc
+	gc - gp
+	gc - rh
+	bc - gp
+	bc - rh
+	gp - rh
+	ts - mp
+	ts - pb
+	ts - pf
+	mp - pb
+	mp - pf
+	pb - pf
+
+12 9 White
+	gc - mp
+	gc - gp
+	gc - ts
+	ts - mp
+	ts - gp
+	mp - gp
+	bc - pb
+	bc - rh
+	bc - pf
+	pb - rh
+	pb - pf
+	rh - pf
+
+12 10 Blue
+	gc - ts
+	gc - bc
+	gc - pf
+	ts - bc
+	ts - pf
+	bc - pf
+	mp - gp
+	mp - pb
+	mp - rh
+	gp - pb
+	gp - rh
+	pb - rh
+
+12 11 Gold
+	gc - pb
+	gc - rh
+	gc - ts
+	pb - rh
+	ts - pb
+	ts - rh
+	mp - bc
+	mp - gp
+	mp - pf
+	bc - gp
+	bc - pf
+	gp - pf
+
+8 12 Red
+	gp - pf
+	gp - pb
+	gc - pf
+	gc - pb
+	mp - bc
+	mp - rh
+	ts - bc
+	ts - rh
+
+4 13 White
+	ts - pb
+	mp - pf
+	gc - rh
+	bc - gp
+
+4 14 Blue
+	mp - rh
+	ts - bc
+	gc - pf
+	gp - pb
+
+8 15 Gold
+	mp - pb
+	mp - rh
+	gp - pb
+	gp - rh
+	ts - bc
+	ts - pf
+	gc - pf
+	gc - bc
+	
+2 16 Red
+  gc - bc
+  pb - gp

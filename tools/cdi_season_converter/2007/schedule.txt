@@ -1,0 +1,177 @@
+16
+
+9
+	gc - rh
+	gc - rw
+	rh - rw
+	sm - js
+	sm - mr
+	js - mr
+	bc - ms
+	bc - gp
+	ms - gp
+
+9
+	sm - gp
+	sm - rw
+	gp - rw
+	js - ms
+	gc - js
+	gc - ms
+	bc - mr
+	bc - rh
+	mr - rh
+
+9
+	sm - ms
+	sm - rh
+	ms - rh
+	gc - mr
+	gc - gp
+	mr - gp
+	bc - js
+	bc - rw
+	js - rw
+
+9
+	gc - sm
+	gc - bc
+	sm - bc
+	js - gp
+	js - rh
+	rh - gp
+	mr - ms
+	mr - rw
+	ms - rw
+
+9
+	sm - gp
+	sm - rw
+	gp - rw
+	js - ms
+	gc - js
+	gc - ms
+	bc - mr
+	bc - rh
+	mr - rh
+
+9
+	gc - gp
+	gc - mr
+	mr - gp
+	sm - ms
+	sm - rh
+	ms - rh
+	bc - js
+	js - rw
+	bc - rw
+
+9
+	mr - ms
+	mr - rw
+	ms - rw
+	gc - sm
+	gc - bc
+	sm - bc
+	js - rh
+	js - gp
+	rh - gp
+
+9
+	bc - gp
+	ms - gp
+	bc - ms
+	rh - rw
+	gc - rw
+	gc - rh
+	sm - mr
+	sm - js
+	js - mr
+
+9
+	gc - mr
+	gc - gp
+	mr - gp
+	sm - ms
+	sm - rh
+	ms - rh
+	bc - js
+	bc - rw
+	js - rw
+
+9
+	js - gp
+	js - rh
+	rh - gp
+	mr - ms
+	mr - rw
+	ms - rw
+	gc - sm
+	gc - bc
+	sm - bc
+
+9
+	sm - mr
+	sm - js
+	js - mr
+	bc - gp
+	ms - gp
+	bc - ms
+	rh - rw
+	gc - rw
+	gc - rh
+
+9
+	sm - gp
+	sm - rw
+	gp - rw
+	bc - mr
+	bc - rh
+	mr - rh
+	gc - js
+	js - ms
+	gc - ms
+
+9
+	gc - sm
+	gc - bc
+	sm - bc
+	mr - ms
+	mr - rw
+	ms - rw
+	js - gp
+	js - rh
+	rh - gp
+
+9
+	bc - gp
+	ms - gp
+	bc - ms
+	rh - rw
+	gc - rw
+	gc - rh
+	sm - mr
+	sm - js
+	js - mr
+
+9
+	sm - gp
+	sm - rw
+	gp - rw
+	gc - js
+	gc - ms
+	js - ms
+	bc - mr
+	bc - rh
+	mr - rh
+
+9
+	bc - js
+	js - rw
+	bc - rw
+	sm - ms
+	sm - rh
+	ms - rh
+	gc - mr
+	mr - gp
+	gc - gp

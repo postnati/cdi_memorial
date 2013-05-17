@@ -1,0 +1,20 @@
+= form_for @poker_card, :html => { :class => 'form-horizontal' } do |f|
+  .control-group
+    = f.label :player_id, :class => 'control-label'
+    .controls
+      = f.text_field :player_id, :class => 'text_field'
+  .control-group
+    = f.label :outing_id, :class => 'control-label'
+    .controls
+      = f.text_field :outing_id, :class => 'text_field'
+  .control-group
+    = f.label :card_value, :class => 'control-label'
+    .controls
+      = f.text_field :card_value, :class => 'text_field'
+  .control-group
+    = f.label :reason, :class => 'control-label'
+    .controls
+      = f.text_field :reason, :class => 'text_field'
+  .form-actions
+    = f.submit nil, :class => 'btn btn-primary'
+    = link_to t('.cancel', :default => t("helpers.links.cancel")), poker_cards_path, :class => 'btn'

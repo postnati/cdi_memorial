@@ -1,0 +1,121 @@
+18
+
+4
+	gc - js
+	sm - bc
+	bc - mr
+	ts - th
+
+0
+
+5
+	mr - th
+	bc - th
+	bc - mr
+	gc - ts
+	sm - js
+
+5
+	gc - js
+	gc - ts
+	js - ts
+	bc - mr
+	sm - th
+
+5
+	gc - sm
+	gc - th
+	sm - th
+	ts - mr
+	bc - js
+
+5
+	js - mr
+	gc - th
+	sm - ts
+	bc - ts
+	sm - bc
+
+5
+	js - mr
+	gc - bc
+	sm - ts
+	sm - th
+	ts - th
+
+5
+	sm - bc
+	ts - th
+	gc - mr
+	bc - js
+	sm - js
+
+5
+	gc - sm
+	gc - mr
+	sm - mr
+	bc - ts
+	js - th
+
+5
+	js - th
+	sm - th
+	sm - js
+	bc - mr
+	gc - ts
+
+5
+	sm - bc
+	mr - th
+	ts - th
+	ts - mr
+	gc - js
+
+5
+	sm - mr
+	gc - bc
+	bc - th
+	gc - th
+	js - ts
+
+5
+	sm - ts
+	gc - js
+	bc - js
+	gc - bc
+	mr - th
+
+5
+	bc - ts
+	js - ts
+	bc - js
+	gc - th
+	sm - mr
+
+5
+	bc - ts
+	sm - mr
+	gc - sm
+	gc - mr
+	js - th
+
+5
+	gc - bc
+	js - th
+	js - mr
+	mr - th
+	sm - ts
+
+5
+	sm - js
+	bc - th
+	gc - ts
+	gc - mr
+	ts - mr
+
+5
+	gc - sm
+	bc - th
+	js - ts
+	js - mr
+	ts - mr

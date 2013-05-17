@@ -1,0 +1,190 @@
+15
+
+7
+	wsm - mar
+	ggc - jes
+	ggc - bwc
+	bwc - jes
+	mmm - bz
+	mag - mmm
+	mag - bz
+
+7
+	wsm - jes
+	wsm - mag
+	mag - jes
+	bwc - mmm
+	bwc - mar
+	mmm - mar
+	ggc - bz
+
+0
+
+12
+	mmm - mar
+	bz - mar
+	ggc - mar
+	mmm - bz
+	ggc - bz
+	ggc - mmm
+	wsm - jes
+	mag - jes
+	bwc - jes
+	wsm - bwc
+	wsm - mag
+	mag - bwc
+
+12
+	ggc - mar
+	ggc - jes
+	wsm - ggc
+	jes - mar
+	wsm - mar
+	wsm - jes
+	bwc - bz
+	mag - bwc
+	bwc - mmm
+	mag - bz
+	mmm - bz
+	mag - mmm
+
+12
+	ggc - bwc
+	ggc - mmm
+	wsm - ggc
+	bwc - mmm
+	wsm - bwc
+	wsm - mmm
+	mag - jes
+	jes - bz
+	jes - mar
+	mag - bz
+	mag - mar
+	bz - mar
+
+12
+	mmm - mar
+	mag - mmm
+	ggc - mmm
+	mag - ggc
+	ggc - mar
+	mag - mar
+	wsm - jes
+	wsm - bwc
+	wsm - bz
+	bwc - jes
+	jes - bz
+	bwc - bz
+
+12
+	ggc - mag
+	ggc - bz
+	wsm - ggc
+	mag - bz
+	wsm - mag
+	wsm - bz
+	bwc - mar
+	bwc - jes
+	bwc - mmm
+	jes - mar
+	mmm - mar
+	jes - mmm
+
+12
+	ggc - bwc
+	ggc - bz
+	ggc - mar
+	bwc - bz
+	bwc - mar
+	bz - mar
+	mag - jes
+	jes - mmm
+	wsm - jes
+	mag - mmm
+	wsm - mag
+	wsm - mmm
+
+12
+	wsm - mmm
+	wsm - mar
+	wsm - bz
+	mmm - mar
+	mmm - bz
+	bz - mar
+	bwc - jes
+	mag - bwc
+	ggc - bwc
+	mag - jes
+	ggc - jes
+	ggc - mag
+
+12
+	ggc - bz
+	ggc - jes
+	ggc - mmm
+	jes - bz
+	mmm - bz
+	jes - mmm
+	wsm - bwc
+	mag - bwc
+	bwc - mar
+	wsm - mag
+	wsm - mar
+	mag - mar
+
+12
+	mag - jes
+	jes - bz
+	wsm - jes
+	mag - bz
+	wsm - mag
+	wsm - bz
+	ggc - bwc
+	ggc - mmm
+	ggc - mar
+	bwc - mmm
+	bwc - mar
+	mmm - mar
+
+12
+	wsm - jes
+	wsm - bwc
+	wsm - ggc
+	bwc - jes
+	ggc - jes
+	ggc - bwc
+	mmm - mar
+	mag - mmm
+	mmm - bz
+	mag - mar
+	bz - mar
+	mag - bz
+
+12
+	ggc - bz
+	wsm - ggc
+	ggc - mmm
+	wsm - bz
+	mmm - bz
+	wsm - mmm
+	bwc - mar
+	bwc - jes
+	mag - bwc
+	jes - mar
+	mag - mar
+	mag - jes
+
+12
+	ggc - bwc
+	ggc - bz
+	ggc - mag
+	mag - bwc
+	bwc - bz
+	mag - bz
+	wsm - jes
+	jes - mmm
+	jes - mar
+	wsm - mmm
+	wsm - mar
+	mmm - mar
+

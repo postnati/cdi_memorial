@@ -1,0 +1,179 @@
+16
+
+8
+	bc - mr
+	gc - bc
+	gc - mr
+	js - jt
+	js - ms
+	sm - js
+	ms - jt
+	sm - ms
+
+8
+	js - ms
+	js - jt
+	ms - jt
+	gc - sm
+	gc - mr
+	sm - bc
+	sm - mr
+	bc - mr
+
+8
+	sm - bc
+	sm - js
+	gc - mr
+	gc - ms
+	gc - jt
+	mr - ms
+	mr - jt
+	ms - jt
+
+8
+	bc - ms
+	gc - ms
+	gc - bc
+	sm - js
+	sm - mr
+	js - mr
+	js - jt
+	mr - jt
+
+9
+	js - mr
+	js - ms
+	mr - ms
+	bc - jt
+	gc - bc
+	sm - bc
+	gc - jt
+	sm - jt
+	gc - sm
+
+9
+	sm - bc
+	bc - jt
+	bc - js
+	gc - mr
+	gc - ms
+	mr - ms
+	sm - js
+	sm - jt
+	js - jt
+
+9
+	gc - sm
+	gc - ms
+	gc - jt
+	sm - ms
+	sm - jt
+	ms - jt
+	bc - js
+	bc - mr
+	js - mr
+
+9
+	gc - sm
+	gc - js
+	gc - ms
+	sm - js
+	sm - ms
+	js - ms
+	bc - mr
+	bc - jt
+	mr - jt
+
+9
+	gc - js
+	gc - jt
+	js - jt
+	sm - ms
+	mr - ms
+	bc - ms
+	sm - mr
+	sm - bc
+	bc - mr
+
+9
+	js - mr
+	sm - mr
+	gc - mr
+	sm - js
+	gc - js
+	gc - sm
+	bc - ms
+	bc - jt
+	ms - jt
+
+9
+	mr - ms
+	sm - ms
+	sm - mr
+	bc - js
+	js - jt
+	bc - jt
+	gc - bc
+	gc - js
+	gc - jt
+
+9
+	mr - ms
+	js - ms
+	bc - ms
+	js - mr
+	bc - mr
+	bc - js
+	gc - sm
+	sm - jt
+	gc - jt
+
+9
+	mr - jt
+	js - jt
+	bc - jt
+	bc - mr
+	js - mr
+	bc - js
+	gc - sm
+	gc - ms
+	sm - ms
+
+9
+	js - ms
+	sm - js
+	sm - ms
+	gc - bc
+	gc - mr
+	gc - jt
+	bc - mr
+	bc - jt
+	mr - jt
+
+9
+	sm - jt
+	mr - jt
+	sm - mr
+	gc - bc
+	gc - js
+	gc - ms
+	bc - js
+	bc - ms
+	js - ms
+
+9
+	gc - js
+	gc - mr
+	js - mr
+	sm - bc
+	sm - ms
+	sm - jt
+	bc - ms
+	bc - jt
+	ms - jt
+
+1
+	sm - bc
+
+1
+	sm - bc

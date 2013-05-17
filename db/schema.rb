@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20130517041823) do
+ActiveRecord::Schema.define(version: 20130517043816) do
 
   create_table "admins", force: true do |t|
     t.string   "email",                  default: "", null: false
@@ -56,6 +56,49 @@ ActiveRecord::Schema.define(version: 20130517041823) do
     t.datetime "updated_at"
   end
 
+  create_table "matches", force: true do |t|
+    t.integer  "outing_id"
+    t.integer  "round_1_id"
+    t.integer  "round_2_id"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+  end
+
+  add_index "matches", ["outing_id"], name: "index_matches_on_outing_id", using: :btree
+  add_index "matches", ["round_1_id"], name: "index_matches_on_round_1_id", using: :btree
+  add_index "matches", ["round_2_id"], name: "index_matches_on_round_2_id", using: :btree
+
+  create_table "outings", force: true do |t|
+    t.integer  "course_id"
+    t.integer  "season_id"
+    t.integer  "slope"
+    t.float    "rating"
+    t.datetime "played_at"
+    t.integer  "hole_1_par"
+    t.integer  "hole_1_handicap"
+    t.integer  "hole_2_par"
+    t.integer  "hole_3_par"
+    t.integer  "hole_4_par"
+    t.integer  "hole_5_par"
+    t.integer  "hole_6_par"
+    t.integer  "hole_7_par"
+    t.integer  "hole_8_par"
+    t.integer  "hole_9_par"
+    t.integer  "hole_2_handicap"
+    t.integer  "hole_3_handicap"
+    t.integer  "hole_4_handicap"
+    t.integer  "hole_5_handicap"
+    t.integer  "hole_6_handicap"
+    t.integer  "hole_7_handicap"
+    t.integer  "hole_8_handicap"
+    t.integer  "hole_9_handicap"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+  end
+
+  add_index "outings", ["course_id"], name: "index_outings_on_course_id", using: :btree
+  add_index "outings", ["season_id"], name: "index_outings_on_season_id", using: :btree
+
   create_table "players", force: true do |t|
     t.string   "first_name"
     t.string   "last_name"
@@ -63,6 +106,54 @@ ActiveRecord::Schema.define(version: 20130517041823) do
     t.datetime "created_at"
     t.datetime "updated_at"
   end
+
+  create_table "poker_cards", force: true do |t|
+    t.integer  "player_id"
+    t.integer  "outing_id"
+    t.integer  "card_value"
+    t.string   "reason"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+  end
+
+  add_index "poker_cards", ["outing_id"], name: "index_poker_cards_on_outing_id", using: :btree
+  add_index "poker_cards", ["player_id"], name: "index_poker_cards_on_player_id", using: :btree
+
+  create_table "prizes", force: true do |t|
+    t.integer  "player_id"
+    t.integer  "competition_id"
+    t.integer  "outing_id"
+    t.float    "portion"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+  end
+
+  add_index "prizes", ["competition_id"], name: "index_prizes_on_competition_id", using: :btree
+  add_index "prizes", ["outing_id"], name: "index_prizes_on_outing_id", using: :btree
+  add_index "prizes", ["player_id"], name: "index_prizes_on_player_id", using: :btree
+
+  create_table "rounds", force: true do |t|
+    t.integer  "outing_id"
+    t.integer  "owner_id"
+    t.integer  "player_id"
+    t.integer  "handicap"
+    t.datetime "played_at"
+    t.integer  "hole_1"
+    t.integer  "hole_2"
+    t.integer  "hole_3"
+    t.integer  "hole_4"
+    t.integer  "hole_5"
+    t.integer  "hole_6"
+    t.integer  "hole_7"
+    t.integer  "hole_8"
+    t.integer  "hole_9"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+  end
+
+  add_index "rounds", ["outing_id"], name: "index_rounds_on_outing_id", using: :btree
+  add_index "rounds", ["owner_id"], name: "index_rounds_on_owner_id", using: :btree
+  add_index "rounds", ["player_id"], name: "index_rounds_on_player_id", using: :btree
 
   create_table "seasons", force: true do |t|
     t.integer  "year"

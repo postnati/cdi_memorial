@@ -1,0 +1,307 @@
+16
+
+17 0 Blue
+  bd - pf
+  bd - gp
+  bd - dd
+  pf - gp
+  pf - dd
+  bc - ts
+  bc - sm
+  ts - sm
+  rw - gc
+  rw - mp
+  gc - mp
+  js - mr
+  js - rh
+  js - jl
+  mr - rh
+  mr - jl
+  rh - jl
+
+17 1 Gold
+  jl - dd
+  jl - pf
+  jl - rh
+  dd - pf
+  dd - rh
+  pf - rh
+  mp - mr
+  mp - js
+  mr - js
+  rw - bd
+  rw - ts
+  bd - ts
+  sm - bc
+  sm - gp
+  bc - gp
+  bc - gc
+  gp - gc
+
+17 2 Red
+  rh - js
+  rh - bd
+  js - rw
+  js - bd
+  rw - bd
+  pf - gp
+  pf - ts
+  pf - mp
+  gp - ts
+  gp - mp
+  ts - mp
+  bc - jl
+  bc - gc
+  jl - gc
+  sm - dd
+  sm - mr
+  dd - mr
+
+17 3 White
+  gp - mr
+  gp - rw
+  gp - bc
+  mr - rw
+  mr - bc
+  rw - bc
+  js - jl
+  js - pf
+  jl - pf
+  rh - ts
+  rh - dd
+  rh - gc
+  ts - dd
+  ts - gc
+  sm - mp
+  sm - bd
+  mp - bd
+
+17 0 Blue
+  rh - mp
+  rh - pf
+  mp - pf
+  mp - bc
+  pf - bc
+  rw - ts
+  rw - sm
+  rw - js
+  ts - sm
+  ts - js
+  sm - js
+  jl - gp
+  jl - dd
+  gp - dd
+  gc - mr
+  gc - bd
+  mr - bd
+
+17 1 Gold
+  gp - dd
+  gp - js
+  dd - bc
+  dd - js
+  bc - js
+  jl - ts
+  jl - gc
+  jl - sm
+  ts - gc
+  ts - sm
+  gc - sm
+  mr - rw
+  mr - pf
+  rw - pf
+  rh - mp
+  rh - bd
+  mp - bd
+
+16 2 Red
+  ts - rh
+  ts - mr
+  rh - mr
+  rw - jl
+  rw - bc
+  rw - bd
+  jl - bc
+  bc - bd
+  gc - pf
+  gc - js
+  gc - dd
+  pf - dd
+  js - dd
+  mp - gp
+  mp - sm
+  gp - sm
+
+16 3 White
+  gp - gc
+  gp - rh
+  gc - rh
+  jl - mr
+  jl - sm
+  pf - mr
+  pf - sm
+  mr - sm
+  js - bd
+  js - ts
+  js - bc
+  bd - ts
+  bd - bc
+  dd - mp
+  dd - rw
+  mp - rw
+
+17 0 Blue
+  sm - gp
+  sm - rh
+  gp - rh
+  ts - mr
+  ts - bd
+  mr - bd
+  mp - pf
+  mp - bc
+  mp - jl
+  pf - bc
+  pf - jl
+  bc - jl
+  gc - rw
+  gc - js
+  gc - dd
+  rw - js
+  rw - dd
+
+17 1 Gold
+  rh - rw
+  rh - pf
+  rw - pf
+  mr - gp
+  mr - bc
+  mr - dd
+  gp - bc
+  gp - dd
+  bc - dd
+  ts - gc
+  ts - jl
+  gc - bd
+  gc - jl
+  bd - jl
+  js - mp
+  js - sm
+  mp - sm
+
+18 2 Red
+  js - sm
+  js - bc
+  js - rh
+  sm - bc
+  sm - rh
+  bc - rh
+  dd - bd
+  dd - jl
+  bd - jl
+  mr - gc
+  mr - mp
+  gc - mp
+  ts - rw
+  ts - pf
+  ts - gp
+  rw - pf
+  rw - gp
+  pf - gp
+
+17 3 White
+  sm - gc
+  sm - pf
+  gc - pf
+  rh - jl
+  rh - rw
+  rh - mp
+  jl - rw
+  jl - mp
+  rw - mp
+  js - gp
+  js - bd
+  gp - mr
+  gp - bd
+  mr - bd
+  bc - dd
+  bc - ts
+  dd - ts
+
+18 0 Blue
+  gp - js
+  gp - jl
+  js - jl
+  dd - mr
+  dd - ts
+  dd - mp
+  mr - ts
+  mr - mp
+  ts - mp
+  rw - rh
+  rw - bc
+  rh - bc
+  gc - sm
+  gc - pf
+  gc - bd
+  sm - pf
+  sm - bd
+  pf - bd
+
+17 1 Gold
+  ts - pf
+  ts - js
+  pf - js
+  rh - bc
+  rh - mr
+  rh - gc
+  bc - mr
+  bc - gc
+  mr - gc
+  bd - gp
+  bd - jl
+  bd - mp
+  gp - jl
+  gp - mp
+  rw - sm
+  rw - dd
+  sm - dd
+
+17 2 Red
+  sm - bd
+  sm - rh
+  sm - dd
+  bd - rh
+  bd - dd
+  rh - dd
+  js - mr
+  js - pf
+  mr - pf
+  gp - rw
+  gp - gc
+  rw - gc
+  jl - ts
+  jl - mp
+  ts - mp
+  ts - bc
+  mp - bc
+
+18 3 White
+  mr - rw
+  mr - sm
+  mr - jl
+  rw - sm
+  rw - jl
+  sm - jl
+  dd - js
+  dd - mp
+  dd - gc
+  js - mp
+  js - gc
+  mp - gc
+  ts - gp
+  ts - rh
+  gp - rh
+  pf - bd
+  pf - bc
+  bd - bc
+

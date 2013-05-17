@@ -1,0 +1,15 @@
+14
+Cleveland	Geoff	gc	5	1	1	0	6.00	
+Zylstra	Bob	bz	9	1	1	0	1.50	
+Miller	Scott	sm	7	1	1	0	4.00	
+Cleveland	Ben	bc	9	1	1	0	2.83	
+Smith	Jeff	js	13	1	1	0	7.33	
+Snoegan	Team	ts	0	1	0	1	0.00	
+Riley	Matt	mr	14	0	0	0	0.00	
+Gootjes	Mark	mg	13	1	1	0	8.50	
+Snoeyink	Mike	ms	11	0	1	0	0.33	
+Finnegan	Keith	kf	15	0	1	0	5.00	
+Hoogerhyde	Randy	rh	13	1	1	0	7.50	
+Beck	Don	db	12	0	0	0	0.00	
+Dukes	Chris	dc	6	0	0	0	0.00	
+Naber	Bob	bn	9	0	1	0	0.00	

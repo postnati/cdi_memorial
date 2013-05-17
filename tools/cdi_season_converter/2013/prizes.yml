@@ -1,0 +1,40 @@
+- initials: pb
+  week: 1
+  value: 0.333
+  name: Fewest Putts 
+  comment: 17
+- initials: bc
+  week: 1
+  value: 0.333
+  name: Fewest Putts 
+  comment: 17
+- initials: mp
+  week: 1
+  value: 0.333
+  name: Fewest Putts 
+  comment: 17
+- initials: pf
+  week: 1
+  value: 1
+  name: High Net 
+  comment: 60 
+- initials: pb
+  week: 1
+  value: 1 
+  name: Mystery Score
+  comment: 46
+- initials: mp
+  week: 2
+  value: 1 
+  name: Low Net 
+  comment: 31 
+- initials: gp
+  week: 2
+  value: 1 
+  name: Worst Best 
+  comment: Bogey 
+- initials: pb
+  week: 2
+  value: 1 
+  name: Mystery Score
+  comment: 46

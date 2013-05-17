@@ -1,0 +1,13 @@
+12
+Miller	Scott	wsm	9	1	1	0	0.50	
+Cleveland	Geoff	ggc	6	1	1	0	9.00	
+Gootjes	Mark	mag	18	1	1	0	5.00	
+Cleveland	Ben	bwc	10	1	1	0	5.00	
+Smith	Jeff	jes	13	1	1	0	5.33	
+Riley	Matt	mmm	13	1	1	0	8.83	
+Zylstra	Bob	bz	12	1	1	0	1.50	
+Dukes	Chris	cd	6	0	0	0	1.00	
+Snoogerhyde	Team	mar	0	1	0	1	0.00	
+Snoeyink	Mike	mjs	11	0	1	0	4.83	
+Hoogerhyde	Randy	rh	12	0	1	0	4.00	
+Naber	Bob	bn	9	0	0	0	0.00	

@@ -1,0 +1,190 @@
+15
+
+18
+bxm - wsm	bxm - bzn	bxm - mag	wsm - bzn	wsm - mag	bzn - mag	
+bwc - llb	bwc - ry 	bwc - mmm 	llb - ry 	llb - mmm 	ry  - mmm 	
+hp  - ggc	hp  - re 	hp  - jes	ggc - re 	ggc - jes	re  - jes	
+
+
+18
+bwc - llb	bwc - jes	bwc - mmm 	llb - jes	llb - mmm 	jes - mmm 	
+wsm - ggc	wsm - bxm	wsm - ry 	ggc - bxm	ggc - ry 	bxm - ry 	
+hp  - bzn	hp  - re 	hp  - mag	bzn - re 	bzn - mag	re  - mag	
+
+
+18
+ggc - llb	ggc - bzn	ggc - wsm	llb - bzn	llb - wsm	bzn - wsm	
+mmm  - bxm	mmm  - re 	mmm  - jes	bxm - re 	bxm - jes	re  - jes	
+bwc - hp 	bwc - mag	bwc - ry 	hp  - mag	hp  - ry 	mag - ry 	
+
+
+18
+mmm  - re 	mmm  - wsm	mmm  - mag	re  - wsm	re  - mag	wsm - mag	
+bzn - ry 	bzn - bxm	bzn - llb	ry  - bxm	ry  - llb	bxm - llb	
+bwc - jes	bwc - hp 	bwc - ggc	jes - hp 	jes - ggc	hp  - ggc	
+
+
+18
+mag - llb	mag - bxm	mag - hp 	
+llb - bxm	llb - hp 	
+bxm - hp 	
+
+mmm  - ry 	mmm  - wsm	mmm  - jes	
+ry  - wsm	ry  - jes	
+wsm - jes	
+
+ggc - bzn	ggc - re 	ggc - bwc	
+bzn - re 	bzn - bwc	
+re  - bwc	
+
+
+18
+mag - mmm 	mag - llb	mag - ggc	
+mmm  - llb	mmm  - ggc	
+llb - ggc	
+
+hp  - bxm	hp  - wsm	hp  - bwc	
+bxm - wsm	bxm - bwc	
+wsm - bwc	
+
+ry  - bzn	ry  - jes	ry  - re 	
+bzn - jes	bzn - re 	
+jes - re 	
+
+
+18
+re  - llb	re  - hp 	re  - bwc	
+llb - hp 	llb - bwc	
+hp  - bwc	
+
+bzn - jes	bzn - mag	bzn - wsm	
+jes - mag	jes - wsm	
+mag - wsm	
+
+ry  - ggc	ry  - mmm 	ry  - bxm	
+ggc - mmm 	ggc - bxm	
+mmm  - bxm	
+
+
+18
+ggc - llb	ggc - bzn	ggc - ry 	
+llb - bzn	llb - ry 	
+bzn - ry 	
+
+bwc - jes	bwc - mag	bwc - bxm	
+jes - mag	jes - bxm	
+mag - bxm	
+
+wsm - hp 	wsm - re 	wsm - mmm 	
+hp  - re 	hp  - mmm 	
+re  - mmm 	
+
+
+18
+hp  - bzn	hp  - bxm	hp  - mmm 	
+bzn - bxm	bzn - mmm 	
+bxm - mmm 	
+
+re  - ggc	re  - llb	re  - mag	
+ggc - llb	ggc - mag	
+llb - mag	
+
+ry  - bwc	ry  - jes	ry  - wsm	
+bwc - jes	bwc - wsm	
+jes - wsm	
+
+
+18
+bzn - ggc	bzn - bwc	bzn - mmm 	
+ggc - bwc	ggc - mmm 	
+bwc - mmm 	
+
+bxm - llb	bxm - wsm	bxm - re 	
+llb - wsm	llb - re 	
+wsm - re 	
+
+mag - hp 	mag - ry 	mag - jes	
+hp  - ry 	hp  - jes	
+ry  - jes	
+
+
+18
+ry  - hp 	ry  - re 	ry  - bzn	
+hp  - re 	hp  - bzn	
+re  - bzn	
+
+jes - mmm 	jes - bxm	jes - llb	
+mmm  - bxm	mmm  - llb	
+bxm - llb	
+
+ggc - mag	ggc - wsm	ggc - bwc	
+mag - wsm	mag - bwc	
+wsm - bwc	
+
+
+18
+ggc - hp 	ggc - wsm	ggc - mmm 	
+hp  - wsm	hp  - mmm 	
+wsm - mmm 	
+
+bxm - re 	bxm - bwc	bxm - ry 	
+re  - bwc	re  - ry 	
+bwc - ry 	
+
+llb - bzn	llb - mag	llb - jes	
+bzn - mag	bzn - jes	
+mag - jes	
+
+
+18
+ry  - ggc	ry  - bxm	ry  - mag	
+ggc - bxm	ggc - mag	
+bxm - mag	
+
+llb - re 	llb - wsm	llb - bwc	
+re  - wsm	re  - bwc	
+wsm - bwc	
+
+bzn - jes	bzn - mmm 	bzn - hp 	
+jes - mmm 	jes - hp 	
+mmm  - hp 	
+
+
+18
+hp  - wsm	hp  - llb	hp  - ry 	
+wsm - llb	wsm - ry 	
+llb - ry 	
+
+jes - re 	jes - ggc	jes - bxm	
+re  - ggc	re  - bxm	
+ggc - bxm	
+
+mag - bwc	mag - mmm 	mag - bzn	
+bwc - mmm 	bwc - bzn	
+mmm  - bzn	
+
+
+18
+bwc - bxm	bwc - wsm	bwc - bzn	
+bxm - wsm	bxm - bzn	
+wsm - bzn	
+
+ry  - mag	ry  - re 	ry  - mmm 	
+mag - re 	mag - mmm 	
+re  - mmm 	
+
+hp  - llb	hp  - ggc	hp  - jes	
+llb - ggc	llb - jes	
+ggc - jes	
+
+3
+bwc - wsm
+jes - mmm
+mag - ggc
+
+2
+bwc - mag
+re - mmm
+
+1
+mag - mmm

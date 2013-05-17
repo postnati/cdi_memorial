@@ -1,0 +1,10 @@
+- week: 0
+  contests: [gc, gc, pf, bc, gp, pb, bz, rh]
+  contest_values: ['2d','8c','Qc','5s','4d','3c','Qh','Kh']
+  bonus: [pf]
+  bonus_values: ['Jc']
+- week: 1
+  contests: [bc, bz, pf, pb, gp, gc, gc, rh]
+  contest_values: []
+  bonus: [gc, rh]
+  bonus_values: []

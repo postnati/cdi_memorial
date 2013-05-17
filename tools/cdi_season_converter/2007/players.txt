@@ -1,0 +1,15 @@
+14
+Cleveland	Geoff	gc	7	1	1	0	5.33	
+Miller	Scott	sm	10	1	1	0	4.50	
+Cleveland	Ben	bc	8	1	1	0	5.70	
+Smith	Jeff	js	10	1	1	0	2.03	
+Riley	Matt	mr	15	1	1	0	7.53	
+Snoeyink	Mike	ms	14	1	1	0	8.50	
+Hoogerhyde	Randy	rh	15	1	1	0	3.33	
+Pattison	Greg	gp	13	1	1	0	6.53	
+Winklemann	Rob	rw	8	1	1	0	4.53	
+Schmidt	Mike	msc	10	0	0	0	0.00	
+Bereza	Bill	bb	26	0	0	0	0.00	
+Bacon	Patrick	pb	8	0	0	0	0.00	
+Leedy	Brad	bl	11	0	0	0	0.00	
+Karlander	Kory	kk	4	0	0	0	0.00	

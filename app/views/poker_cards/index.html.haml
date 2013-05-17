@@ -1,0 +1,27 @@
+- model_class = PokerCard
+.page-header
+  %h1=t '.title', :default => model_class.model_name.human.pluralize
+%table.table.table-striped
+  %thead
+    %tr
+      %th= model_class.human_attribute_name(:id)
+      %th= model_class.human_attribute_name(:player_id)
+      %th= model_class.human_attribute_name(:outing_id)
+      %th= model_class.human_attribute_name(:card_value)
+      %th= model_class.human_attribute_name(:reason)
+      %th= model_class.human_attribute_name(:created_at)
+      %th=t '.actions', :default => t("helpers.actions")
+  %tbody
+    - @poker_cards.each do |poker_card|
+      %tr
+        %td= link_to poker_card.id, poker_card_path(poker_card)
+        %td= poker_card.player_id
+        %td= poker_card.outing_id
+        %td= poker_card.card_value
+        %td= poker_card.reason
+        %td=l poker_card.created_at
+        %td
+          = link_to t('.edit', :default => t("helpers.links.edit")), edit_poker_card_path(poker_card), :class => 'btn btn-mini'
+          = link_to t('.destroy', :default => t("helpers.links.destroy")), poker_card_path(poker_card), :method => :delete, :data => { :confirm => t('.confirm', :default => t("helpers.links.confirm", :default => 'Are you sure?')) }, :class => 'btn btn-mini btn-danger'
+
+= link_to t('.new', :default => t("helpers.links.new")), new_poker_card_path, :class => 'btn btn-primary'

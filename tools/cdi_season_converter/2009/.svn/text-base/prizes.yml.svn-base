@@ -1,0 +1,322 @@
+
+- initials: mr
+  week: 1
+  value: 0.5
+  name: Smallest Difference
+  comment: 2
+- initials: bl
+  week: 1
+  value: 0.5
+  name: Smallest Difference
+  comment: 2
+- initials: ts
+  week: 1
+  value: 1.0
+  name: Most Putts
+  comment: 21
+- initials: ms
+  week: 1
+  value: 1.0
+  name: Mystery Score
+  comment: 63
+- initials: rw
+  week: 2
+  value: 1.0
+  name: Fewest Putts
+  comment: 14
+- initials: rh
+  week: 2
+  value: 0.166667
+  name: Largest Difference
+  comment: 4
+- initials: ts
+  week: 2
+  value: 0.166667
+  name: Largest Difference
+  comment: 4
+- initials: gp
+  week: 2
+  value: 0.166667
+  name: Largest Difference
+  comment: 4
+- initials: ms
+  week: 2
+  value: 0.166667
+  name: Largest Difference
+  comment: 4
+- initials: js
+  week: 2
+  value: 0.166667
+  name: Largest Difference
+  comment: 4
+- initials: bl
+  week: 2
+  value: 0.166667
+  name: Largest Difference
+  comment: 4
+- initials: rw
+  week: 2
+  value: 1.0
+  name: Mystery Score
+  comment: 45
+- initials: rw
+  week: 3
+  value: 0.5
+  name: Best Worst
+  comment: Double Bogey
+- initials: sm
+  week: 3
+  value: 0.5
+  name: Best Worst
+  comment: Double Bogey
+- initials: js
+  week: 3
+  value: 1.0
+  name: High Net
+  comment: 45
+- initials: sm
+  week: 3
+  value: 1.0
+  name: Mystery Score
+  comment: 47
+- initials: rh
+  week: 4
+  value: 1.0
+  name: Low Gross
+  comment: 48
+- initials: js
+  week: 4
+  value: 1.0
+  name: Worst-Best
+  comment: Two Doubles
+- initials: sm
+  week: 4
+  value: 1.0
+  name: Mystery Score
+  comment: 49
+- initials: sm
+  week: 5
+  value: 0.5
+  name: Smallest Difference
+  comment: 2
+- initials: gc
+  week: 5
+  value: 0.5
+  name: Smallest Difference
+  comment: 2
+- initials: mr
+  week: 5
+  value: 1
+  name: Largest Difference
+  comment: 6
+- initials: ms
+  week: 5
+  value: 1
+  name: Mystery Score
+  comment: 52
+- initials: js
+  week: 6
+  value: 0.33
+  name: Fewest Putts
+  comment: 16
+- initials: mr
+  week: 6
+  value: 0.33
+  name: Fewest Putts
+  comment: 16
+- initials: sm
+  week: 6
+  value: 0.33
+  name: Fewest Putts
+  comment: 16
+- initials: ms
+  week: 6
+  value: 1
+  name: High Gross
+  comment: 54
+- initials: rw
+  week: 6
+  value: 1
+  name: Mystery Score
+  comment: 40
+- initials: rw
+  week: 7
+  value: 1
+  name: Mystery Score
+  comment: 42
+- initials: rw
+  week: 7
+  value: 1
+  name: Best-Worst
+  comment: 40
+- initials: sm
+  week: 7
+  value: 1
+  name: Most Penalties
+  comment: 2
+- initials: sm
+  week: 8
+  value: 1
+  name: Mystery Score
+  comment: 46
+- initials: sm
+  week: 8
+  value: 1
+  name: Most Putts 
+  comment: 20
+- initials: gc
+  week: 8
+  value: 1
+  name: Low Gross
+  comment: 42
+- initials: pf
+  week: 9
+  value: 1
+  name: Smallest Difference
+  comment: 2
+- initials: rh
+  week: 9
+  value: 1
+  name: Mystery Score
+  comment: 55
+- initials: mr
+  week: 9
+  value: 0.5
+  name: Largest Difference
+  comment: 5
+- initials: rw
+  week: 9
+  value: 0.5
+  name: Largest Difference
+  comment: 5
+- initials: rh
+  week: 10
+  value: 1
+  name: Fewest Putts
+  comment: 15
+- initials: pf
+  week: 10
+  value: 0.5
+  name: High Net
+  comment: 15
+- initials: ms
+  week: 10
+  value: 0.5
+  name: High Net
+  comment: 15
+- initials: pf
+  week: 10
+  value: 1
+  name: Mystery Score
+  comment: 51
+- initials: ts
+  week: 11
+  value: 1
+  name: Best-Worst
+  comment: Double Bogey
+- initials: bl
+  week: 11
+  value: 0.5
+  name: High Gross
+  comment: 55
+- initials: ms
+  week: 11
+  value: 0.5
+  name: High Gross
+  comment: 55
+- initials: rw
+  week: 11
+  value: 1
+  name: Mystery Score
+  comment: 42
+- initials: sm
+  week: 12
+  value: 1
+  name: Fewest Trees
+  comment: 0
+- initials: ms
+  week: 12
+  value: 1
+  name: Most Trees
+  comment: 8
+- initials: gc
+  week: 12
+  value: 1
+  name: Mystery Score
+  comment: 48
+- initials: mr
+  week: 13
+  value: 1
+  name: Mystery Score
+  comment: 50
+- initials: pf
+  week: 13
+  value: 1
+  name: Smalles Difference
+  comment: 2 (par-double)
+- initials: js
+  week: 13
+  value: 1
+  name: Worst-Best
+  comment: 1 par, 2 bogies
+- initials: pf
+  week: 14
+  value: 1
+  name: Mystery Score
+  comment: 45
+- initials: ms
+  week: 14
+  value: 0.5
+  name: Fewest Putts
+  comment: 15
+- initials: gc
+  week: 14
+  value: 0.5
+  name: Fewest Putts
+  comment: 15
+- initials: ts
+  week: 14
+  value: 0.5
+  name: Most Penalties
+  comment: 2
+- initials: js
+  week: 14
+  value: 0.5
+  name: Most Penalties
+  comment: 2
+- initials: rh
+  week: 15
+  value: 1
+  name: Mystery Score
+  comment: 55
+- initials: rw
+  week: 15
+  value: 1
+  name: Best-Worst
+  comment: 1 triple, 0 doubles
+- initials: ts
+  week: 15
+  value: 0.5
+  name: Most Putts
+  comment: 21
+- initials: pf
+  week: 15
+  value: 0.5
+  name: Most Putts
+  comment: 21
+- initials: js
+  week: 16
+  value: 1
+  name: Mystery Score
+  comment: 56
+- initials: js
+  week: 16
+  value: 1
+  name: Fewest Trees
+  comment: 3
+- initials: ts
+  week: 16
+  value: 1
+  name: Most Trees
+  comment: 14
+  

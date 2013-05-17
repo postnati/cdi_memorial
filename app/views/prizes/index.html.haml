@@ -1,0 +1,27 @@
+- model_class = Prize
+.page-header
+  %h1=t '.title', :default => model_class.model_name.human.pluralize
+%table.table.table-striped
+  %thead
+    %tr
+      %th= model_class.human_attribute_name(:id)
+      %th= model_class.human_attribute_name(:player_id)
+      %th= model_class.human_attribute_name(:competition_id)
+      %th= model_class.human_attribute_name(:outing_id)
+      %th= model_class.human_attribute_name(:portion)
+      %th= model_class.human_attribute_name(:created_at)
+      %th=t '.actions', :default => t("helpers.actions")
+  %tbody
+    - @prizes.each do |prize|
+      %tr
+        %td= link_to prize.id, prize_path(prize)
+        %td= prize.player_id
+        %td= prize.competition_id
+        %td= prize.outing_id
+        %td= prize.portion
+        %td=l prize.created_at
+        %td
+          = link_to t('.edit', :default => t("helpers.links.edit")), edit_prize_path(prize), :class => 'btn btn-mini'
+          = link_to t('.destroy', :default => t("helpers.links.destroy")), prize_path(prize), :method => :delete, :data => { :confirm => t('.confirm', :default => t("helpers.links.confirm", :default => 'Are you sure?')) }, :class => 'btn btn-mini btn-danger'
+
+= link_to t('.new', :default => t("helpers.links.new")), new_prize_path, :class => 'btn btn-primary'

@@ -1,0 +1,40 @@
+--- 
+- :type: :good
+  :age: 11
+  :name: Low Net
+- :type: :good
+  :age: 4
+  :name: Fewest Putts
+- :type: :good
+  :age: 14
+  :name: Smallest Difference
+- :type: :good
+  :age: 16
+  :name: Best-Worst
+- :type: :good
+  :age: 12
+  :name: Low Gross
+- :type: :bad
+  :age: 12
+  :name: Most Penalties
+- :type: :bad
+  :age: 14
+  :name: High Gross
+- :type: :bad
+  :age: 6
+  :name: High Net
+- :type: :bad
+  :age: 11
+  :name: Worst-Best
+- :type: :bad
+  :age: 16
+  :name: Most Putts
+- :type: :bad
+  :age: 4
+  :name: Largest Difference
+- :type: :good
+  :age: 13
+  :name: Fewest Trees
+- :type: :bad
+  :age: 13
+  :name: Most Trees

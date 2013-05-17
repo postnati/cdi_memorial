@@ -1,0 +1,57 @@
+course_images:
+  Gold:
+    holes:
+      - images/gold_1.png
+      - images/gold_2.png
+      - images/gold_3.png
+      - images/gold_4.png
+      - images/gold_5.png
+      - images/gold_6.png
+      - images/gold_7.png
+      - images/gold_8.png
+      - images/gold_9.png
+    course: images/gold.jpg
+    color: fd0
+
+  Red:
+    holes:
+      - images/red_1.png
+      - images/red_2.png
+      - images/red_3.png
+      - images/red_4.png
+      - images/red_5.png
+      - images/red_6.png
+      - images/red_7.png
+      - images/red_8.png
+      - images/red_9.png
+    course: images/red.jpg
+    color: f00
+    
+  White:
+    holes:
+      - images/white_1.png
+      - images/white_2.png
+      - images/white_3.png
+      - images/white_4.png
+      - images/white_5.png
+      - images/white_6.png
+      - images/white_7.png
+      - images/white_8.png
+      - images/white_9.png
+    course: images/white.jpg
+    color: fff
+    
+  Blue:
+    holes:
+      - images/blue_1.png
+      - images/blue_2.png
+      - images/blue_3.png
+      - images/blue_4.png
+      - images/blue_5.png
+      - images/blue_6.png
+      - images/blue_7.png
+      - images/blue_8.png
+      - images/blue_9.png
+    course: images/blue.jpg
+    color: 00f
+

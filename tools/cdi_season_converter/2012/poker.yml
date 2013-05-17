@@ -1,0 +1,47 @@
+- week: 0
+  contests: [gc, gc, gc, ts, pf, bc, bc, bc]
+  bonus: [gp, mp, pb]
+- week: 1
+  contests: [pf, pb, bc, pb, rh, gp, ts, ts]
+- week: 2
+  contests: [pf, ts, gp, pf, pb, pb, bc, gc]
+  bonus: [pb, mp]
+- week: 3
+  contests: [pf, pb, pf, ts, bc, gc, gc, bc]
+  bonus: [mp, gc, bc]
+- week: 4
+  contests: [ts, gp, bc, ts, rh, gc, pf, mp]
+  bonus: [pf, gp]
+- week: 5
+  contests: [bc, bc, bc, ts, pb, pb, pf, gp]
+  bonus: [pf]
+- week: 6
+  contests: [rh, gp, pf, pf, pb, pb, mp, gc]
+  bonus: [rh, pb]
+- week: 7
+  contests: [bc, gc, pb, mp, gp, gp, ts, rh]
+  bonus: [mp, pf]
+- week: 8
+  contests: [mp, pf, ts, ts, rh, gp, gp, gp]
+  bonus: [pf, mp]
+- week: 9
+  contests: [gc, ts, gp, gc, bc, pb, pb, pf]
+  bonus: [gp, pb, mp, pf]
+- week: 10
+  contests: [pf, bc, gc, pf, pb, pb, gp, rh]
+  bonus: [mp, gc]
+- week: 11
+  contests: [gc, pb, gc, gc, gp, gp, gp, mp]
+  bonus: [gc, pb, ts]
+- week: 12
+  contests: [pb, pb, pb, gp, ts, mp, rh, mp]
+  bonus: [pb, pb]
+- week: 13
+  contests: [bc, gc, bc, gc, pb, pb, pf, pf]
+  bonus: [pb, pf]
+- week: 14
+  contests: [pf, gc, gc, ts, pb, rh, rh, pb]
+  bonus: [pb, pb, gc]
+- week: 15
+  contests: [gc, pf, ts, pf, pb, gp, gp, gp]
+  bonus: [pb, pb, gc, pf, ts]

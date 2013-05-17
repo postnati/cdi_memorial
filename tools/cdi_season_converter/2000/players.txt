@@ -1,0 +1,13 @@
+12
+    Miller      Scott   wsm     10	1 1 0 6.33
+    Cleveland   Geoff   ggc     6	1 1 0 5.33
+    Meinema     Bill    bxm     9	0 0 0 1.33
+    Gootjes     Mark    mag     16	1 1 0 4.67
+    Cleveland   Ben     bwc     9	1 1 0 5.00
+    Smith       Jeff    jes     13	1 1 0 4.00
+	Riley		Matt    mmm		15  1 1 0 3.83
+	Zylstra		Bob		bz		11	1 1 1 1.50
+	Dukes		Chris	cd		4	1 1 0 6.00
+	Mallas		Manual	mal		5	0 0 0 0.00
+	Youngman	Bruce	by		16	0 0 0 0.00
+	Naber		Bob		bn		8	1 1 1 1.00

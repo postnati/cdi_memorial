@@ -1,0 +1,37 @@
+---
+- initials: sm
+  week: 1
+  value: 1.0
+  name: Low net
+  comment: 33
+- initials: gc
+  week: 1
+  value: 0.5
+  name: Worst-best
+  comment: 2 pars
+- initials: sm
+  week: 1
+  value: 0.5
+  name: Worst-best
+  comment: 2 pars
+- initials: gp
+  week: 1
+  value: 1.0
+  name: Mystery Score
+  comment: 45
+- initials: js
+  week: 2
+  value: 1
+  name: Best-worst
+  comment: double-bogey
+- initials: gp
+  week: 2
+  value: 1
+  name: Hi Gross
+  comment: 54
+- initials: sm
+  week: 2
+  value: 1  
+  name: Mystery Score
+  comment: 44
+  

@@ -1,0 +1,17 @@
+16
+1 3 3
+
+5
+15 Closest_to_the_Pin
+12 Long_Drive
+13 Best_Worst
+14 Low_Gross
+11 Low_Net
+
+6
+13 Most_penalty_strokes
+14 Hi_gross_score
+10 Hi_net_score
+12 Worst-best_hole
+15 Best_poker_hand
+8 Worst_poker_hand

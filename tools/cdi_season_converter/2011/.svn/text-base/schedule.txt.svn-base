@@ -1,0 +1,214 @@
+16
+
+11 0 White
+  sm - rh
+  sm - gc
+  rh - gc
+  bd - rw
+  bd - bc
+  bd - mp
+  rw - bc
+  rw - mp
+  ts - pb
+  ts - gp
+  pb - gp
+
+11 1 Blue
+  pb - rh
+  pb - bc
+  rh - bc
+  rw - bd
+  rw - ts
+  rw - gc
+  bd - ts
+  bd - gc
+  ts - gc
+  gp - mp
+  mp - sm
+
+11 2 Gold
+  rw - rh
+  rw - ts
+  rw - gp
+  rh - ts
+  ts - gp
+  sm - gc
+  sm - mp
+  gc - mp
+  bd - bc
+  bd - pb
+  bc - pb
+
+12 3 Red
+  sm - gp
+  sm - ts
+  gp - ts
+  gp - bd
+  ts - bd
+  bc - rh
+  pb - gc
+  pb - mp
+  pb - rw
+  gc - mp
+  gc - rw
+  mp - rw
+
+11 0 White
+  rw - ts
+  rw - gc
+  ts - gc
+  gp - mp
+  gp - sm
+  gp - bc
+  mp - bc
+  sm - bc
+  rh - bd
+  rh - pb
+  bd - pb
+
+11 1 Blue
+  bc - bd
+  bc - sm
+  bc - gp
+  bd - sm
+  sm - gp
+  rh - ts
+  rh - gc
+  ts - gc
+  mp - rw
+  mp - pb
+  rw - pb
+
+11 2 Gold
+  rw - bc
+  rw - sm
+  bc - sm
+  gc - pb
+  gc - ts
+  gc - gp
+  pb - ts
+  pb - gp
+  bd - mp
+  bd - rh
+  mp - rh
+
+12 3 Red
+  sm - rh
+  sm - pb
+  sm - rw
+  rh - pb
+  rh - rw
+  pb - rw
+  mp - ts
+  bc - gp
+  bc - bd
+  bc - gc
+  gp - bd
+  gp - gc
+
+11 0 White
+  rw - pb
+  rw - sm
+  pb - sm
+  mp - rh
+  mp - bc
+  ts - rh
+  ts - bc
+  rh - bc
+  bd - gc
+  bd - gp
+  gc - gp
+
+12 1 Blue
+  sm - mp
+  sm - rh
+  sm - gc
+  mp - rh
+  mp - gc
+  rh - gc
+  gp - bc
+  gp - rw
+  gp - ts
+  bc - rw
+  bc - ts
+  bd - pb
+
+11 2 Gold
+  mp - bc
+  mp - pb
+  mp - ts
+  bc - pb
+  bc - ts
+  sm - rh
+  sm - gp
+  rh - gp
+  rw - bd
+  rw - gc
+  bd - gc
+
+10 3 Red
+  bd - sm
+  bd - gc
+  sm - gc
+  mp - gp
+  mp - pb
+  rh - gp
+  rh - pb
+  gp - pb
+  bc - ts
+  rw - ts
+
+12 0 White
+  sm - mp
+  sm - bd
+  sm - ts
+  mp - bd
+  mp - ts
+  bd - ts
+  gc - pb
+  gc - bc
+  pb - bc
+  rw - rh
+  rw - gp
+  rh - gp
+
+11 1 Blue
+  ts - pb
+  ts - sm
+  pb - sm
+  rh - bd
+  rh - rw
+  rh - gp
+  bd - rw
+  bd - gp
+  gc - mp
+  gc - bc
+  mp - bc
+
+12 2 Gold
+  mp - gp
+  mp - rw
+  gp - rw
+  bd - ts
+  bd - pb
+  bd - sm
+  ts - pb
+  ts - sm
+  pb - sm
+  bc - rh
+  bc - gc
+  rh - gc
+
+11 3 Red
+  ts - mp
+  ts - rh
+  bd - mp
+  bd - rh
+  mp - rh
+  sm - rw
+  sm - bc
+  rw - bc
+  gc - gp
+  gc - pb
+  gp - pb
+

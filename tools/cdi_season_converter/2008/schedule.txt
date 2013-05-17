@@ -1,0 +1,215 @@
+17
+
+11 0 Blue
+	bc - gc
+	bc - sm
+	gc - sm
+	gp - ms
+	bl - ms
+	ms - brl
+	bl - gp
+	bl - brl
+	rh - js
+	rh - rw
+	js - rw
+
+11 1 White
+	gp - ms
+	gp - rw
+	ms - rw
+	gc - ms
+	gc - rw
+	sm - brl
+	bc - sm
+	bc - brl
+	rh - bl
+	rh - js
+	bl - js
+
+11 2 Red
+	bl - sm
+	sm - gp
+	gc - bl
+	gc - gp
+	bl - gp
+	js - brl
+	js - rw
+	rw - brl
+	bc - rh
+	bc - ms
+	rh - ms
+
+11 3 Gold
+	bc - gc
+	bc - js
+	gc - js
+	rh - bl
+	bl - brl
+	bl - sm
+	rh - sm
+	sm - brl
+	gp - ms
+	gp - rw
+	ms - rw
+
+12 0 Blue
+	sm - js
+	js - ms
+	sm - ms
+	gp - brl
+	gc - gp
+	gp - rw
+	gc - brl
+	rw - brl
+	gc - rw
+	rh - bl
+	bc - rh
+	bc - bl
+
+11 1 White
+	bc - gc
+	gc - rw
+	bc - rh
+	bc - rw
+	rh - rw
+	sm - ms
+	bl - sm
+	bl - ms
+	gp - js
+	gp - brl
+	js - brl
+
+11 2 Red
+	ms - rw
+	sm - ms
+	sm - rw
+	rh - gp
+	rh - js
+	gp - js
+	bc - brl
+	bc - bl
+	gc - brl
+	gc - bl
+	bl - brl
+
+11 3 Gold
+	sm - gp
+	sm - js
+	gp - js
+	rw - brl
+	bc - rw
+	rh - rw
+	rh - brl
+	bc - rh
+	gc - ms
+	gc - bl
+	bl - ms
+
+0 0 Blue
+
+12 1 White
+	rh - sm
+	rh - gp
+	gc - rh
+	sm - gp
+	gc - sm
+	gc - gp
+	bc - js
+	js - ms
+	bc - ms
+	rw - brl
+	bl - brl
+	bl - rw
+
+11 2 Red
+	sm - brl
+	rh - brl
+	rh - sm
+	bl - js
+	gc - js
+	js - ms
+	bl - ms
+	gc - ms
+	bc - rw
+	bc - gp
+	gp - rw
+
+12 3 Gold
+	bl - rw
+	js - rw
+	bl - js
+	bc - brl
+	bc - sm
+	bc - ms
+	sm - brl
+	ms - brl
+	sm - ms
+	rh - gp
+	gc - gp
+	gc - rh
+
+11 0 Blue
+	gc - ms
+	gc - rh
+	rh - ms
+	bc - js
+	bc - brl
+	bc - gp
+	gp - js
+	gp - brl
+	sm - rw
+	bl - rw
+	bl - sm
+
+11 1 White
+	bl - gp
+	bc - gp
+	bc - bl
+	sm - js
+	sm - rw
+	js - rw
+	rh - brl
+	gc - brl
+	ms - brl
+	gc - rh
+	rh - ms
+
+12 2 Red
+	rh - bl
+	bl - rw
+	rh - rw
+	gp - brl
+	gp - ms
+	ms - brl
+	gc - js
+	bc - js
+	sm - js
+	bc - gc
+	gc - sm
+	bc - sm
+
+11 3 Gold
+	sm - rw
+	gc - sm
+	gc - rw
+	bc - bl
+	bc - gp
+	bl - gp
+	js - brl
+	js - ms
+	rh - js
+	rh - brl
+	rh - ms
+
+11 0 Blue
+	gc - brl
+	js - brl
+	gc - bl
+	gc - js
+	bl - js
+	ms - rw
+	bc - ms
+	bc - rw
+	sm - gp
+	rh - sm
+	rh - gp

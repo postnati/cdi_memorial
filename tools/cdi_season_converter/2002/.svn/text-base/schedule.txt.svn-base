@@ -1,0 +1,211 @@
+15
+
+12
+	sm - rh
+	bc - rh
+	gc - rh
+	gc - sm
+	sm - bc
+	gc - bc
+	js - mg
+	ts - mg
+	bz - mg
+	js - ts
+	bz - js
+	bz - ts
+
+12
+	gc - js
+	gc - bc
+	gc - bz
+	bc - js
+	bz - js
+	bz - bc
+	sm - rh
+	sm - ts
+	sm - mg
+	ts - rh
+	mg - rh
+	ts - mg
+
+12
+	sm - bc
+	sm - ts
+	sm - js
+	bc - ts
+	bc - js
+	js - ts
+	gc - bz
+	gc - mg
+	gc - rh
+	bz - mg
+	bz - rh
+	mg - rh
+
+12
+	ts - rh
+	bc - rh
+	bz - rh
+	bc - ts
+	bz - ts
+	bz - bc
+	js - mg
+	sm - mg
+	gc - mg
+	sm - js
+	gc - js
+	gc - sm
+
+12
+	sm - mg
+	sm - bc
+	bz - sm
+	bc - mg
+	bz - mg
+	bz - bc
+	js - rh
+	gc - js
+	js - ts
+	gc - rh
+	ts - rh
+	gc - ts
+
+12
+	js - mg
+	bc - js
+	js - rh
+	bc - mg
+	mg - rh
+	bc - rh
+	gc - ts
+	gc - bz
+	gc - sm
+	bz - ts
+	sm - ts
+	bz - sm
+
+12
+	js - mg
+	ts - mg
+	sm - mg
+	js - ts
+	sm - js
+	sm - ts
+	bz - rh
+	bc - rh
+	gc - rh
+	bz - bc
+	gc - bz
+	gc - bc
+
+12
+	sm - rh
+	bz - sm
+	sm - js
+	bz - rh
+	js - rh
+	bz - js
+	bc - mg
+	bc - ts
+	gc - bc
+	ts - mg
+	gc - mg
+	gc - ts
+
+12
+	sm - bc
+	sm - mg
+	sm - rh
+	bc - mg
+	bc - rh
+	mg - rh
+	gc - bz
+	gc - js
+	gc - ts
+	bz - js
+	bz - ts
+	js - ts
+
+12
+	bc - js
+	bc - ts
+	bc - rh
+	js - ts
+	js - rh
+	ts - rh
+	bz - sm
+	sm - mg
+	gc - sm
+	bz - mg
+	gc - bz
+	gc - mg
+
+12
+	ts - mg
+	bc - ts
+	bz - ts
+	bc - mg
+	bz - mg
+	bz - bc
+	gc - sm
+	gc - js
+	gc - rh
+	sm - js
+	sm - rh
+	js - rh
+
+12
+	bz - js
+	bc - js
+	sm - js
+	bz - bc
+	sm - bc
+	bz - sm
+	gc - ts
+	gc - mg
+	gc - rh
+	ts - mg
+	ts - rh
+	mg - rh
+
+12
+	mg - rh
+	bc - rh
+	sm - rh
+	bc - mg
+	sm - mg
+	sm - bc
+	gc - bz
+	gc - js
+	gc - ts
+	bz - js
+	bz - ts
+	js - ts
+
+12
+	bz - rh
+	bz - ts
+	bz - sm
+	ts - rh
+	sm - rh
+	sm - ts
+	js - mg
+	bc - js
+	gc - js
+	bc - mg
+	gc - mg
+	gc - bc
+
+12
+	gc - ts
+	gc - sm
+	gc - bc
+	sm - bc
+	sm - ts
+	bc - ts
+	bz - js
+	js - mg
+	js - rh
+	bz - mg
+	bz - rh
+	mg - rh
