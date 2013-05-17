@@ -1,4 +1,10 @@
 CdiMemorial::Application.routes.draw do
+  resources :competitions
+
+  resources :seasons
+
+  resources :courses
+
   resources :players
 
   devise_for :admins

@@ -1,0 +1,43 @@
+- model_class = Course
+.page-header
+  %h1=t '.title', :default => model_class.model_name.human.pluralize
+%table.table.table-striped
+  %thead
+    %tr
+      %th= model_class.human_attribute_name(:id)
+      %th= model_class.human_attribute_name(:name)
+      %th= model_class.human_attribute_name(:slope)
+      %th= model_class.human_attribute_name(:rating)
+      %th= model_class.human_attribute_name(:hole_1_par)
+      %th= model_class.human_attribute_name(:hole_2_par)
+      %th= model_class.human_attribute_name(:hole_3_par)
+      %th= model_class.human_attribute_name(:hole_4_par)
+      %th= model_class.human_attribute_name(:hole_5_par)
+      %th= model_class.human_attribute_name(:hole_6_par)
+      %th= model_class.human_attribute_name(:hole_7_par)
+      %th= model_class.human_attribute_name(:hole_8_par)
+      %th= model_class.human_attribute_name(:hole_9_par)
+      %th= model_class.human_attribute_name(:created_at)
+      %th=t '.actions', :default => t("helpers.actions")
+  %tbody
+    - @courses.each do |course|
+      %tr
+        %td= link_to course.id, course_path(course)
+        %td= course.name
+        %td= course.slope
+        %td= course.rating
+        %td= course.hole_1_par
+        %td= course.hole_2_par
+        %td= course.hole_3_par
+        %td= course.hole_4_par
+        %td= course.hole_5_par
+        %td= course.hole_6_par
+        %td= course.hole_7_par
+        %td= course.hole_8_par
+        %td= course.hole_9_par
+        %td=l course.created_at
+        %td
+          = link_to t('.edit', :default => t("helpers.links.edit")), edit_course_path(course), :class => 'btn btn-mini'
+          = link_to t('.destroy', :default => t("helpers.links.destroy")), course_path(course), :method => :delete, :data => { :confirm => t('.confirm', :default => t("helpers.links.confirm", :default => 'Are you sure?')) }, :class => 'btn btn-mini btn-danger'
+
+= link_to t('.new', :default => t("helpers.links.new")), new_course_path, :class => 'btn btn-primary'

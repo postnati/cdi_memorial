@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20130517035618) do
+ActiveRecord::Schema.define(version: 20130517041823) do
 
   create_table "admins", force: true do |t|
     t.string   "email",                  default: "", null: false
@@ -31,10 +31,41 @@ ActiveRecord::Schema.define(version: 20130517035618) do
   add_index "admins", ["email"], name: "index_admins_on_email", unique: true, using: :btree
   add_index "admins", ["reset_password_token"], name: "index_admins_on_reset_password_token", unique: true, using: :btree
 
+  create_table "competitions", force: true do |t|
+    t.string   "name"
+    t.string   "category"
+    t.string   "description"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+  end
+
+  create_table "courses", force: true do |t|
+    t.string   "name"
+    t.float    "slope"
+    t.float    "rating"
+    t.integer  "hole_1_par"
+    t.integer  "hole_2_par"
+    t.integer  "hole_3_par"
+    t.integer  "hole_4_par"
+    t.integer  "hole_5_par"
+    t.integer  "hole_6_par"
+    t.integer  "hole_7_par"
+    t.integer  "hole_8_par"
+    t.integer  "hole_9_par"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+  end
+
   create_table "players", force: true do |t|
     t.string   "first_name"
     t.string   "last_name"
     t.string   "email"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+  end
+
+  create_table "seasons", force: true do |t|
+    t.integer  "year"
     t.datetime "created_at"
     t.datetime "updated_at"
   end
