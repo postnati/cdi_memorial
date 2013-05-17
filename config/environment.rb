@@ -2,4 +2,4 @@
 require File.expand_path('../application', __FILE__)
 
 # Initialize the rails application.
-CdiRails4::Application.initialize!
+CdiMemorial::Application.initialize!

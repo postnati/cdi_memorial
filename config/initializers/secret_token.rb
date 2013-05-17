@@ -9,4 +9,4 @@
 
 # Make sure your secret_key_base is kept private
 # if you're sharing your code publicly.
-CdiRails4::Application.config.secret_key_base = 'ae26498d8da66294901adc066cfd35a6ed06bf36e13839b951d5d5eff5a89831012f831a9039073b812c10de21fdcb7b214b0454e01720d5af851b98325efac8'
+CdiMemorial::Application.config.secret_key_base = 'ae26498d8da66294901adc066cfd35a6ed06bf36e13839b951d5d5eff5a89831012f831a9039073b812c10de21fdcb7b214b0454e01720d5af851b98325efac8'

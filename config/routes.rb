@@ -1,4 +1,4 @@
-CdiRails4::Application.routes.draw do
+CdiMemorial::Application.routes.draw do
   resources :players
 
   devise_for :admins
